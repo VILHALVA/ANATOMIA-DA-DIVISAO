@@ -1,7 +1,7 @@
 # ANATOMIA DA DIVISAO DIVISAO 
 👨‍🏫EXIBE A ESTRUTURA DA DIVISÃO ENTRE DOIS NÚMEROS.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="IMAGEM.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 - Este aplicativo é uma ferramenta simples para calcular e exibir a estrutura de uma divisão entre dois números. 
